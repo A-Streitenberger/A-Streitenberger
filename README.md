@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-my name is Alex and I'm currently doing my Masters in Computer Science at JGU in Mainz. I already have several years of experience as a working student in various companies, including large corporations and small start-ups. Since December 2023 I have been working as a freelancer programming API integrations in the logistics industry.
+my name is Alex and I'm currently finishing my master degree in Computer Science at JGU in Mainz. I already have several years of experience as a working student in various companies, including large corporations and small start-ups. Since December 2023 I have been working as a freelancer programming API integrations in the logistics industry.
 
 
 Here on GitHub you can find projects I'm working on and want to share.
