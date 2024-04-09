@@ -5,6 +5,6 @@ my name is Alex and I'm currently finishing my master degree in Computer Science
 
 Here on GitHub you can find projects I'm working on and want to share.
 
-**Project easyFastGP**: An implementation of a standard genetic programming in Python with implemented performance improvements, especially the evaulation of individuals in C.
+**Project easyFastGP**: An implementation of a standard genetic programming in Python with implemented performance improvements, especially the evaluation of individuals in numba annotated functions.
 
-**Project user management (not yet published)**: A Spring Boot application for user administration. This project will serve as a base project for others and includes the following features: Single Sign-On (SSO), 2FA authentication, registration and email verification and other security measures via Spring Security.
+**Project spring-user-management (will be published soon)**: A Spring Boot application for user management. This project will serve as a base project for others and will include the following features Single Sign-On (SSO), 2FA authentication, registration by email verification and other security measures (e.g. locking users out after X incorrect password attempts).
