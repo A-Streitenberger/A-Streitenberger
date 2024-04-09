@@ -7,4 +7,4 @@ Here on GitHub you can find projects I'm working on and want to share.
 
 **Project easyFastGP**: An implementation of a standard genetic programming in Python with implemented performance improvements, especially the evaulation of individuals in C.
 
-**Project user management (not yet published)**: I am currently working on a Spring Boot application for user administration. The project will serve as a base project for others and includes the following features: Single Sign-On (SSO), 2FA authentication, registration and email verification and other security measures via Spring Security.
+**Project user management (not yet published)**: A Spring Boot application for user administration. This project will serve as a base project for others and includes the following features: Single Sign-On (SSO), 2FA authentication, registration and email verification and other security measures via Spring Security.
